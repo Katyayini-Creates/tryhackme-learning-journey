@@ -26,7 +26,7 @@ This tracker documents my learning journey through the TryHackMe Pre Security pa
 |---|---|
 | Operating Systems: Introduction | Learned the purpose of an operating system and how it manages hardware resources and provides services to applications. Explored the distinction between kernel space and user space, the role of system calls in allowing applications to request OS services, and how the operating system acts as an interface between applications and hardware. |
 | Windows Basics | Explored the evolution from command-line-based interaction to graphical user interfaces in modern Windows systems. Learned how users authenticate and access their desktop workspace, including the taskbar, Start menu, and system settings. Studied the purpose of Task Manager and its views for processes, users, and system activity. Also explored Windows Security, Microsoft Defender Firewall, and essential Windows settings used to manage and protect a system. |
-| Linux CLI Basics | Not yet documented — key learning summary will be added after studying the room. |
+| Linux CLI Basics | Began learning how to interact with Linux through the Command-Line Interface (CLI) and use the terminal to work directly with the operating system. Explored the purpose of the Linux terminal and started practicing filesystem navigation through a hands-on mission to locate missing notes. This is an ongoing learning session; further system investigation and the room conclusion are yet to be completed. |
 | Windows CLI Basics | Not yet documented — key learning summary will be added after studying the room. |
 | Operating System Security | Not yet documented — key learning summary will be added after studying the room. |
 
