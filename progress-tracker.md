@@ -32,6 +32,10 @@ This tracker documents my learning journey through the TryHackMe Pre Security pa
 
 ## 4. Software Basics
 
+| Room | Key Learning |
+|---|---|
+| Data Representation |
+
 ---
 
 *This tracker will be updated as I progress through the learning path, recording concepts and practical knowledge gained from each room.*
