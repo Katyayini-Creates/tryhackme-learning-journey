@@ -34,7 +34,8 @@ This tracker documents my learning journey through the TryHackMe Pre Security pa
 
 | Room | Key Learning |
 |---|---|
-| Data Representation |
+| Data Representation | Learned how computers represent information using binary bits and how to convert between binary, decimal, hexadecimal, and octal. Understood that 1 byte equals 8 bits and how RGB uses 8 bits per color channel to represent over 16 million colors. Explored hexadecimal as a compact representation of binary values, including hex color codes. |
+
 
 ---
 
