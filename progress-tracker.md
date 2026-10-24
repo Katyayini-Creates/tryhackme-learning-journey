@@ -37,7 +37,7 @@ This tracker documents my learning journey through the TryHackMe Pre Security pa
 | Data Representation | Learned how computers represent information using binary bits and how to convert between binary, decimal, hexadecimal, and octal. Understood that 1 byte equals 8 bits and how RGB uses 8 bits per color channel to represent over 16 million colors. Explored hexadecimal as a compact representation of binary values, including hex color codes. |
 | Data Encoding | Learned about ASCII and Unicode encoding systems and how characters are represented in binary for computers to process. Understood ASCII's limitation of representing 128 characters and why Unicode was developed to support diverse languages, symbols, and emojis. Explored Unicode code points and the UTF-8, UTF-16, and UTF-32 encoding formats. |
 | Python Basics | Learned the fundamentals of Python, including variables, conditional statements (`if`, `elif`, `else`), and `while` loops through a number-guessing game. Explored Python's relevance to cybersecurity, including scripting, automation, and handling repetitive tasks across different security domains. |
-
+| JavaScript Simple Demo | Started learning JavaScript fundamentals through hands-on exercises. Completed the first three tasks; the remaining tasks and key learnings will be documented after completing the room. |
 
 ---
 
