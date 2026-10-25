@@ -38,6 +38,7 @@ This tracker documents my learning journey through the TryHackMe Pre Security pa
 | Data Encoding | Learned about ASCII and Unicode encoding systems and how characters are represented in binary for computers to process. Understood ASCII's limitation of representing 128 characters and why Unicode was developed to support diverse languages, symbols, and emojis. Explored Unicode code points and the UTF-8, UTF-16, and UTF-32 encoding formats. |
 | Python Basics | Learned the fundamentals of Python, including variables, conditional statements (`if`, `elif`, `else`), and `while` loops through a number-guessing game. Explored Python's relevance to cybersecurity, including scripting, automation, and handling repetitive tasks across different security domains. |
 | JavaScript Simple Demo | Learned JavaScript fundamentals, including input/output, `console.log()`, variable declarations using `let` and `const`, and `while` loops through a number-guessing game. Understood that user input is received as text and can be converted to integers using `parseInt()`. Explored JavaScript's relevance to cybersecurity, particularly when examining and understanding web applications. |
+| Database SQL Basics | Learned database fundamentals, including databases, tables, rows, queries, and SQL. Practiced `SELECT`, `FROM`, `WHERE`, and `ORDER BY` with ascending and descending sorting. Explored cybersecurity concepts related to database confidentiality and integrity, SQL injection, and the principle of least privilege. |
 
 ---
 
