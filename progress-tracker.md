@@ -40,6 +40,10 @@ This tracker documents my learning journey through the TryHackMe Pre Security pa
 | JavaScript Simple Demo | Learned JavaScript fundamentals, including input/output, `console.log()`, variable declarations using `let` and `const`, and `while` loops through a number-guessing game. Understood that user input is received as text and can be converted to integers using `parseInt()`. Explored JavaScript's relevance to cybersecurity, particularly when examining and understanding web applications. |
 | Database SQL Basics | Learned database fundamentals, including databases, tables, rows, queries, and SQL. Practiced `SELECT`, `FROM`, `WHERE`, and `ORDER BY` with ascending and descending sorting. Explored cybersecurity concepts related to database confidentiality and integrity, SQL injection, and the principle of least privilege. |
 
+## 5. Network Fundamentals
+
+| Room | Key Learning |
+
 ---
 
 *This tracker will be updated as I progress through the learning path, recording concepts and practical knowledge gained from each room.*
