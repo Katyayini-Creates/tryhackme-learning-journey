@@ -43,7 +43,8 @@ This tracker documents my learning journey through the TryHackMe Pre Security pa
 ## 5. Network Fundamentals
 
 | Room | Key Learning |
-
+|---|---|
+| What Is Networking? | Learned the fundamentals of computer networks as interconnected devices that communicate and share resources. Understood how the internet consists of interconnected smaller networks and explored the difference between private and public networks. Currently completed Tasks 1–2; remaining tasks are in progress. |
 ---
 
 *This tracker will be updated as I progress through the learning path, recording concepts and practical knowledge gained from each room.*
