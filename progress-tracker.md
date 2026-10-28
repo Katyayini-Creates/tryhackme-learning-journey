@@ -44,7 +44,7 @@ This tracker documents my learning journey through the TryHackMe Pre Security pa
 
 | Room | Key Learning |
 |---|---|
-| What Is Networking? | Learned the fundamentals of computer networks as interconnected devices that communicate and share resources. Understood how the internet consists of interconnected smaller networks and explored the difference between private and public networks. Currently completed Tasks 1–2; remaining tasks are in progress. |
+| What Is Networking? | Learned the fundamentals of computer networks, the internet, and private and public networks. Explored IPv4 and IPv6 addressing, why IPv6 was introduced, and how the `ping` command tests network connectivity. Understood the roles of IP addresses in network communication and MAC addresses in identifying network interfaces. Learned the structure of MAC addresses, including the manufacturer identifier (OUI) and the interface-specific portion. |
 ---
 
 *This tracker will be updated as I progress through the learning path, recording concepts and practical knowledge gained from each room.*
