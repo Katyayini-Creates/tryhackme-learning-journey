@@ -45,6 +45,7 @@ This tracker documents my learning journey through the TryHackMe Pre Security pa
 | Room | Key Learning |
 |---|---|
 | What Is Networking? | Learned the fundamentals of computer networks, the internet, and private and public networks. Explored IPv4 and IPv6 addressing, why IPv6 was introduced, and how the `ping` command tests network connectivity. Understood the roles of IP addresses in network communication and MAC addresses in identifying network interfaces. Learned the structure of MAC addresses, including the manufacturer identifier (OUI) and the interface-specific portion. |
+| What Is LAN? | Learned about network topology as the physical or logical arrangement of devices in a network. Explored star, bus, and ring topologies, including their advantages and disadvantages. Studied the roles of switches in connecting devices within a network and routers in forwarding packets between different networks. Completed Task 1; remaining tasks are in progress. |
 ---
 
 *This tracker will be updated as I progress through the learning path, recording concepts and practical knowledge gained from each room.*
