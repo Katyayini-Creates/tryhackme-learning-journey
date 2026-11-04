@@ -49,6 +49,7 @@ This tracker documents my learning journey through the TryHackMe Pre Security pa
 | OSI Model | Learned about all seven layers of the OSI (Open Systems Interconnection) model: Physical (hardware and data transmission), Data Link (frames and bit transmission), Network (IP addressing and routing), Transport (TCP and UDP), Session (managing communication sessions), Presentation (data translation and formatting), and Application (net| Packets & Frames | Learned how packets operate at Layer 3 (Network Layer) and frames at Layer 2 (Data Link Layer).
 | Packets & Frames | Learned how packets operate at Layer 3 and frames at Layer 2. Explored the four-layer TCP/IP model and its relationship with the seven-layer OSI model. Studied TCP communication, including the three-way handshake (SYN, SYN-ACK, ACK), TCP header components such as flags, sequence numbers, and acknowledgment numbers, and FIN and RST flags. Also learned about UDP, port numbers, and important network ports and their associated services. |
 | Extending Your Network | Learned about port forwarding and firewalls, including their roles in enabling network communication and controlling incoming and outgoing traffic. Completed the first three tasks; remaining tasks are in progress. |
+| Extending Your Network |
 
 ---
 
