@@ -56,6 +56,7 @@ This tracker documents my learning journey through the TryHackMe Pre Security pa
 | Room | Key Learning |
 |---|---|
 | DNS in Detail | Learned the fundamentals of DNS (Domain Name System), domain hierarchy, and naming conventions, including root domains, top-level domains (TLDs), and second-level domains. Explored important DNS records such as A, AAAA, MX, CNAME, and TXT. Understood the DNS resolution process involving recursive and authoritative DNS servers, and performed practical exercises creating different types of DNS records. |
+| HTTP in Detail | Learned the fundamentals of HTTP (Hypertext Transfer Protocol) and HTTPS (Hypertext Transfer Protocol Secure), and their role in communication between web clients and servers. Completed Task 1; remaining tasks are in progress. |
 
 ---
 
