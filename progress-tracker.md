@@ -51,6 +51,12 @@ This tracker documents my learning journey through the TryHackMe Pre Security pa
 | Extending Your Network | Learned about port forwarding and firewalls, including their roles in enabling network communication and controlling incoming and outgoing traffic. Completed the first three tasks; remaining tasks are in progress. |
 | Extending Your Network | Learned about port forwarding, firewalls, and VPNs (Virtual Private Networks), including how VPNs establish encrypted tunnels for secure communication across networks. Explored the roles of routers and switches in LAN communication. Completed a practical exercise involving TCP packet transmission to understand network communication and the TCP three-way handshake. |
 
+## 6. How the Web Works
+
+| Room | Key Learning |
+|---|---|
+| DNS in Detail | Learned the fundamentals of DNS (Domain Name System), domain hierarchy, and naming conventions, including root domains, top-level domains (TLDs), and second-level domains. Explored important DNS records such as A, AAAA, MX, CNAME, and TXT. Understood the DNS resolution process involving recursive and authoritative DNS servers, and performed practical exercises creating different types of DNS records. |
+
 ---
 
 *This tracker will be updated as I progress through the learning path, recording concepts and practical knowledge gained from each room.*
